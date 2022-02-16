@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb Kathman
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, MySQL, Mobile Development
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Robotics & Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cjkathman@unc.edu
 
